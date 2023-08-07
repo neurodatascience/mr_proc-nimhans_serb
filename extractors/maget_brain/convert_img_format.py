@@ -58,7 +58,3 @@ for input_file in input_file_list:
 
     else:
         print(f"Unknown conversion argument: {conv_script}")
-
-    
-
-    
